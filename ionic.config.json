@@ -1,0 +1,7 @@
+{
+  "name": "modemConfigVue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
